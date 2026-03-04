@@ -14,17 +14,17 @@ This project features an intelligent **AI Agent** built in **n8n** that uses **G
 ## 🛠️ Visual Workflow & Logic
 Since the internal JSON is proprietary, the logic is documented below via system captures:
 
-### 1. The n8n Agent Architecture
-The agent is triggered by a chat message and utilizes specific tools to query Airtable.
-![n8n Workflow Structure](workflow_main.png)
+### 🎬 Step 1: Video Production & Timeline Logic
+Documentation of the Clipchamp timeline, featuring grouped elements and optimized 8% audio levels.
+![Video Timeline Assets](<Step 1 Video Elements Group Audio and MP4 Timeline.png>)
 
-### 2. Conversational Interface
-Users can ask the agent to "List all my OKRs" or "Update progress," and the agent executes the corresponding Airtable tool.
-![Gemini Chat Demo](chat_demo.png)
+### 🤖 Step 2: n8n & Airtable Architecture
+The core workflow engine connecting Google Gemini 1.5 Pro to the Airtable relational database.
+![n8n Airtable Workflow](<Step 2 N8N Ai agents Airtable Workflow.png>)
 
-### 3. Documentation Timeline
-The video walkthrough was edited to balance background audio at 8% to ensure the technical explanation is clear.
-![Video Editing Timeline](timeline_edit.png)
+### 💬 Step 3: Conversational Agent Interaction
+Real-time demonstration of the AI Agent interpreting natural language to manage OKR records.
+![Chat Interactions](<Step 3 N8N Workflow Chat Interactions.png>)
 
 ---
 
