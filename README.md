@@ -19,7 +19,7 @@ Documentation of the Clipchamp timeline, featuring grouped elements and optimize
 ![Video Timeline Assets](<Step 1 Video Elements Group Audio and MP4 Timeline.png>)
 
 ### 🤖 Step 2: n8n & Airtable Architecture
-The core workflow engine connecting Google Gemini 1.5 Pro to the Airtable relational database for seamless data management.
+The core workflow engine connecting Google Gemini 1.5 Pro to the Airtable relational database.
 ![n8n Airtable Workflow](<Step 2 N8N Ai agents Airtable Workflow.png>)
 
 ### 💬 Step 3: Conversational Agent Interaction
