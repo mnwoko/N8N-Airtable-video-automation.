@@ -24,6 +24,18 @@ The core workflow engine connecting Google Gemini 1.5 Pro to the Airtable relati
 
 ### 💬 Step 3: Conversational Agent Interaction
 Real-time demonstration of the AI Agent interpreting natural language to manage OKR records.
+![Chat Interactions](<Step 3 N8N Workflow Chat Interactions.png>)## 🛠️ Visual Workflow & Logic
+
+### 🎬 Step 1: Video Production & Timeline Logic
+Documentation of the Clipchamp timeline, featuring grouped elements and optimized 8% audio levels to ensure narrative clarity.
+![Video Timeline Assets](<Step 1 Video Elements Group Audio and MP4 Timeline.png>)
+
+### 🤖 Step 2: n8n & Airtable Architecture
+The core workflow engine connecting Google Gemini 1.5 Pro to the Airtable relational database for seamless data management.
+![n8n Airtable Workflow](<Step 2 N8N Ai agents Airtable Workflow.png>)
+
+### 💬 Step 3: Conversational Agent Interaction
+Real-time demonstration of the AI Agent interpreting natural language to manage OKR records directly within the chat interface.
 ![Chat Interactions](<Step 3 N8N Workflow Chat Interactions.png>)
 
 ---
