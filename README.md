@@ -20,7 +20,7 @@ Documentation of the Clipchamp timeline, featuring grouped elements and optimize
 
 ### 🤖 Step 2: n8n & Airtable Architecture
 The core workflow engine connecting Google Gemini 1.5 Pro to the Airtable relational database for seamless data management.
-![n8n Airtable Workflow](<Step 2 N8N Ai agents Airtable  Workflow.png>)
+![n8n Airtable Workflow](<Step 2 N8N Ai agents Airtable Workflow.png>)
 
 ### 💬 Step 3: Conversational Agent Interaction
 Real-time demonstration of the AI Agent interpreting natural language to manage OKR records.
